@@ -8,7 +8,8 @@ I’m a developer specializing in **Minecraft plugins**, **web development**, an
 ### **Languages**
 - Java (Minecraft plugins)
 - JavaScript / TypeScript  
-- Python  
+- Python
+- Lua
 
 ### **Frameworks & Libraries**
 - Spigot / Paper / Velocity / Bukkit  
