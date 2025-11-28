@@ -37,7 +37,6 @@ I’m a developer specializing in **Minecraft plugins**, **web development**, an
 
 ![Top Languages](https://github-readme-stats-six-dun-78.vercel.app/api/top-langs/?username=MrSoundXD&layout=compact&theme=tokyonight&count_private=true)
 
-
 ## 📫 Contact
 - Discord: **MrSoundXD**  
 - Portfolio Website: [mrsoundxd.github.io/portfolio](https://mrsoundxd.github.io/portfolio)
