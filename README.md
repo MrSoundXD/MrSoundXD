@@ -27,7 +27,8 @@ I’m a developer specializing in **Minecraft plugins**, **web development**, an
 
 
 ## 🌟 Featured Projects
-- **Project 1** – Coming soon...
+- **OneBlock Plugin** – Een custom Minecraft plugin.
+  - [📂 Bekijk Source Code](https://github.com/MrSoundXD/OneBlock/tree/master)
 
 
 ## 📈 GitHub Stats
