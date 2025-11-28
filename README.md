@@ -39,5 +39,5 @@ I’m a developer specializing in **Minecraft plugins**, **web development**, an
 
 ## 📫 Contact
 - Discord: **MrSoundXD**  
-- Portfolio Website: *Coming soon*  
+- Portfolio Website: **mrsoundxd.github.io/portfolio**
 - Email: **gitmrsoundxd@gmail.com**  
